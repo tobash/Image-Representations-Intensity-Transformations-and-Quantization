@@ -1,0 +1,9 @@
+Image Representations, Intensity Transformations, and Quantization
+
+The main purpose of this project is to get acquainted with NumPy and some image processing
+facilities. This project covers:
+• Loading grayscale and RGB image representations.
+• Displaying figures and images.
+• Transforming RGB color images back and forth from the YIQ color space.
+• Performing intensity transformations: histogram equalization.
+• Performing optimal quantization
